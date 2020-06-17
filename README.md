@@ -1,6 +1,6 @@
 # NodeJS Concepts Challenge
 
-## :rocket: The Challenge
+## :dart: The Challenge
 
 An application to storage repositories of your portfolio that will allow you to list, update and delete repositories, and besides that, the repositories can also receive likes.
 
