@@ -77,18 +77,18 @@ After installing node, this project will need yarn too, so just run the followin
 
       $ npm install -g yarn
 
-## Install
+## :computer: Install
 
     $ git clone https://github.com/pupato13/nodejs-concepts-challenge.git
     $ cd nodejs-concepts-challenge
     $ yarn install
 
-## Running the project
+## :checkered_flag: Running the project
 
     $ yarn dev
 
 Access: [localhost:3333](http://localhost:3333/repositories)
 
-## Running tests
+## :white_check_mark: Running tests
 
     $ yarn test
