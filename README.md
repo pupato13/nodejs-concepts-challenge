@@ -87,7 +87,7 @@ After installing node, this project will need yarn too, so just run the followin
 
     $ yarn dev
 
-    Access: [localhost:3333](http://localhost:3333/repositories)
+Access: [localhost:3333](http://localhost:3333/repositories)
 
 ## Running tests
 
